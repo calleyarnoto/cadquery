@@ -58,10 +58,9 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
-        "Programming Language :: Python :: 3.10",
-"Topic/Engineering",
-    ="c cadquery, occt, opencascade, , parametric, modeling",
-    project Reportsreadthedocs.io",
-        "Source": "https://github.com/CadQuery/cadquery",
+        "Programming Language :: Python ::         Scientific/Engineering",
+    ],="cadquery, occt, opencric, modeling",
+    urls={
+        "Documentation/cadquery",
     },
 )
